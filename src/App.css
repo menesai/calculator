@@ -1,0 +1,10 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  background-color: rgb(168, 168, 168)
+}
+
+.calcContainer{
+  display: flex;
+  justify-content: center;
+}

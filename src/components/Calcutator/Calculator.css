@@ -1,0 +1,23 @@
+.calcBody{
+  margin-top: 12vh; 
+  background: black;
+  color:white;
+  width: 35%;
+  height: 55vh;
+  border-radius: 5px;
+}
+
+.calcSection{
+  display: flex;
+  /* height: 100%; */
+
+}
+
+.sectionOne{
+  width: 70%;
+  /* height: 100%; */
+}
+
+.sectiontwo{
+
+}
