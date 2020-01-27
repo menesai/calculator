@@ -1,6 +1,7 @@
 .calcBody{
   margin-top: 12vh; 
-  background: black;
+  /* border: solid 1px red; */
+  /* background: black; */
   color:white;
   width: 35%;
   height: 55vh;
@@ -8,16 +9,17 @@
 }
 
 .calcSection{
+  height: 81%;
   display: flex;
-  /* height: 100%; */
-
 }
 
 .sectionOne{
-  width: 70%;
-  /* height: 100%; */
+  width: 80%;
+  height: 100%;
 }
 
-.sectiontwo{
-
+.sectionTwo{
+  /* border: solid yellow 1px; */
+  width: 25%;
+  height: 100%;
 }

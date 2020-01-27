@@ -1,0 +1,19 @@
+.numberListBtn{
+    color: white;
+    height: 9vh;
+    width: 33%;
+    background-color: #616163;
+}
+
+.footerBtn-1, .footerBtn-2{
+    height: 9vh;
+    color: white;
+    background-color: #616163;
+}
+
+.footerBtn-1{
+    width: 66%;
+}
+.footerBtn-2{
+    width: 33%;
+}

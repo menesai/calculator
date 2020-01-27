@@ -5,7 +5,11 @@ class Operators extends Component{
     render(){
         return (
             <div className='calcOperators'>
-                this is operatorsx
+               <button className='btnOp'>/</button>
+               <button className='btnOp'>x</button>
+               <button className='btnOp'>-</button>
+               <button className='btnOp'>+</button>
+               <button className='btnOp'>=</button>
             </div>
         )
     }

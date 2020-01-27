@@ -1,3 +1,12 @@
 .calcOperators{
-    border: solid red 1px;
+    /* border: solid red 1px; */
+    /* width:50%; */
+    display: flex;
+    flex-direction: column;
+    /* height: 100%; */
+}
+
+.btnOp{
+    background: #F49E3F;
+    height: 9vh;
 }
