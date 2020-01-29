@@ -6,10 +6,11 @@ import './Numbers.css';
 class Numbers extends Component {
 
     render(){
+       const {handleChange} =this.props;
         return(
             <div className='calcNumbers'>
-              <NumHeader/>
-              <NumberList/>
+              <NumHeader handleChange={handleChange}/>
+              <NumberList handleChange={handleChange}/>
             </div>
         )
     }
